@@ -1,0 +1,2 @@
+rootProject.name='ChromeCustomTabView'
+include ':app'
